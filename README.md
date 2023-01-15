@@ -12,7 +12,7 @@ https://mern-vercel-black.vercel.app/
 
 ## About the Project
 
-It is a Full Stack MERN Movie Application where user can register and browsing through latest movie, TV serials.
+It is a Full Stack MERN Movie Application where user can register and browse through latest movies, TV serials.
 You can write a review about a particular movie/serial, add it to your favorite list, light and dark theme and much more.
 
 
